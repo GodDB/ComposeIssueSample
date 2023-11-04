@@ -8,7 +8,7 @@ this project is compose 1.5.x issue sample project
             android:name=".MainActivity"
             android:configChanges="orientation|keyboardHidden|screenSize|locale|layoutDirection|uiMode|smallestScreenSize|screenLayout|density"
    ```
-2. From compose version 1.5.0 or higher, click does not work when entering pop-up mode.
+2. From compose version 1.5.0 or higher, click does not work when entered pop-up mode.
   (It works in compose version 1.4.3 and lower.)
 
 3. video
